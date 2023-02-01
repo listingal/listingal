@@ -1,6 +1,3 @@
-<ul>
-
-          <li><div class="views-field views-field-nothing"><span class="field-content"><div class="row">
 <div class="col-12">
 <h3 class="fs-5"><a href="/en/philippines/topic238" class="fw-bolder text-decoration-none">Top 20 Famous Foods in the Philippines</a></h3>
 <p>When it comes to food, the Philippines is a country that is rich in culture and flavor. Many famous dishes are enjoyed by locals and tourists alike. In this blog post, we will discuss the top 10 most famous foods in the Philippines. From delicious pork dishes to sweet treats, you will want to try all of these amazing foods! </p>
@@ -139,6 +136,4 @@
 <p>Negros Oriental is a province located in the Philippines. It is known for its natural beauty, and there are many attractions and activities to enjoy here. If you're looking for an adventure, or simply want to relax and take in the scenery, Negros Oriental has something for everyone. In this blog post, we will discuss 10 of the top attractions and activities in Negros Oriental!</p>
 </div>
 <p><svg class="svg-inline--fa fa-location-dot" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="location-dot" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg=""><path fill="currentColor" d="M168.3 499.2C116.1 435 0 279.4 0 192C0 85.96 85.96 0 192 0C298 0 384 85.96 384 192C384 279.4 267 435 215.7 499.2C203.4 514.5 180.6 514.5 168.3 499.2H168.3zM192 256C227.3 256 256 227.3 256 192C256 156.7 227.3 128 192 128C156.7 128 128 156.7 128 192C128 227.3 156.7 256 192 256z"></path></svg><!-- <i class="fas fa-map-marker-alt"></i> Font Awesome fontawesome.com --><span class="px-1"><a href="/en/philippines" hreflang="en">Philippines</a></span><span class="px-1"><a href="/en/philippines/negros-oriental" hreflang="en">Negros Oriental</a></span></p></div>
-<p></p></span></div></li>
-    
-  </ul>
+<p></p></span></div>
